@@ -7,14 +7,14 @@ export default function Home({ session }) {
   } else {
     console.log('has session');
   }
-  
+
   return (
     <div className={styles.container}>
       <Head>
         <title>Auth</title>
       </Head>
       <main>
-        <code>200</code>
+        <code>...</code>
       </main>
       {/* <footer className={styles.footer}>
         <a

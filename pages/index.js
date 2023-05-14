@@ -11,7 +11,7 @@ export default function Home({ session }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Auth</title>
+        <title>Restricted Access</title>
       </Head>
       <main>
         <code>...</code>
